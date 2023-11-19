@@ -24,19 +24,19 @@ const Project = () => {
             <Container className="mt-5">
               <Row className="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
                 <Col>
-                  <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
               </Row>
             </Container>
@@ -45,22 +45,22 @@ const Project = () => {
             <Container className="mt-5">
               <Row className="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
               </Row>
             </Container>
@@ -69,7 +69,7 @@ const Project = () => {
             <Container className="mt-5">
               <Row className="row row-cols-1 row-cols-md-3 g-10 justify-content-center">
                 <Col>
-                  <img src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
+                  <image src="https://i.pinimg.com/originals/dd/70/57/dd70574cd73b633a43ae43e6ca7a560f.gif" alt="Big Image" className="img-fluid rounded" />
                 </Col>
               </Row>
             </Container>
