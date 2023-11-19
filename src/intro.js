@@ -7,8 +7,7 @@ const Intro = () => {
       <Container className="mt-5">
         <Row>
           <Col md={7}>
-            {/* Big size image on the left */}
-            <img src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
+            <image src="https://media.tenor.com/UQESusJVIRwAAAAd/aizen-aizen-form.gif" alt="Big Image" className="img-fluid rounded" />
           </Col>
           <Col md={5}>
             {/* Explanation on the right side */}
